@@ -5,7 +5,7 @@ import pandas as pd
 
 # Enter your Email account credentials here !
 your_email = "sns@gmail.com"
-your_password = "tgxm jvvd qibl rcyu"
+your_password = ""
 
 
 server = smtplib.SMTP(host='smtp.gmail.com', port=587)
